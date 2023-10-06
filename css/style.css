@@ -1,0 +1,42 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #121212;
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+#lives {
+	margin-bottom: 10px;
+}
+
+.life {
+	font-size: 2rem;
+	margin: 0 5px;
+	color: #ff0000;
+}
+
+canvas {
+	border: 4px solid #ffffff;
+	margin: auto;
+	display: block;
+}
+
+#score {
+	font-size: 1.5rem;
+	margin-top: 15px;
+	color: #ffffff;
+}
+
+#instructions {
+	font-size: 1rem;
+	margin-top: 15px;
+	color: #ffffff;
+}
+
+li {
+	list-style: none;
+}
